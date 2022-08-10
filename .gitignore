@@ -1,0 +1,14 @@
+# Node Modules
+node_modules
+
+# Enviroment variables
+.env
+*.env
+**/*.env
+
+# Builds
+.dist
+
+# API tests
+
+http_tests
